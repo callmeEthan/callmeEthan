@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello 👋
+I'm a hobbyist solo developer, worked on various Gamemaker project throughout the year, I love
+designing/programming game systems and pushing GM boundaries.  
+
+
+## Contact me
+📫 [**Name_Ethan@outlook.com**](mailto:name_Ethan@outlook.com)  
+💵 **You can hire me on [Fiverr](https://www.fiverr.com/callme_ethan/)**
 
 <!--
 **callmeEthan/callmeEthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
