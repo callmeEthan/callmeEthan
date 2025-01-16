@@ -1,6 +1,7 @@
 ## Hello 👋
 I'm a hobbyist solo developer, worked on various Gamemaker project throughout the year, I love
-designing/programming game systems and pushing GM boundaries.  
+designing/programming game systems and pushing Gamemaker boundaries.  
+![alt text](https://github.com/callmeEthan/PrimeFramework_Sponza/blob/d6bf7f9768fba0e97f2d7055d827bb69d3eb70b2/Screenshots/header.jpg?raw=true)
 
 
 ## Contact me
