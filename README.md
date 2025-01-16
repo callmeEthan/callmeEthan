@@ -3,9 +3,8 @@ I'm a hobbyist solo developer on Gamemaker, worked on various project throughout
 designing/programming game systems and pushing Gamemaker boundaries.  
 [<img src="https://github.com/callmeEthan/PrimeFramework_Sponza/blob/d6bf7f9768fba0e97f2d7055d827bb69d3eb70b2/Screenshots/header.jpg?raw=true">](https://github.com/callmeEthan/PrimeFramework_Sponza)
 
-
 ## Contact me
-📫 [**Name_Ethan@outlook.com**](mailto:name_Ethan@outlook.com)  
+📫 My Email: [**Name_Ethan@outlook.com**](mailto:name_Ethan@outlook.com)  
 💵 **You can hire me on [Fiverr](https://www.fiverr.com/callme_ethan/)**
 
 <!--
